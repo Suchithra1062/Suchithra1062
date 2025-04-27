@@ -1,0 +1,68 @@
+#parent{
+    position: relative;
+    width: 400px;
+    height: 500px;
+}
+
+
+#child1{
+    position: absolute;
+    width: 30%;
+    height: 25%;
+    left: 0%;
+    top:75%;
+    background-color: blueviolet;
+    border: 1px solid;
+}
+    
+
+#child2{
+    position: absolute;
+    width: 30%;
+    height: 37%;
+    left: 0%;
+    background-color: purple;
+    border: 1px solid;
+}
+#child3{
+    position: absolute;
+    width: 33%;
+    height: 53%;
+    top: 47%;
+    left: 30%;
+    background-color: red;
+    border: 1px solid;
+}
+    
+
+
+#child4{
+    position: absolute;
+    width: 33%;
+    height: 50%;
+    left: 30%;
+    background-color: blue;
+    border: 1px solid;
+}
+    
+
+
+#child5{
+    position: absolute;
+    width: 30%;
+    height: 26%;
+    top: 25%;
+    background-color: yellow;
+    border: 1px solid;
+}
+
+#child6{
+    
+    position: absolute;
+    width: 30%;
+    height: 25%;
+    top: 51%;
+    background-color: palevioletred;
+    border: 1px solid;
+}
+

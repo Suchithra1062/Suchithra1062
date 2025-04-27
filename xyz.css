@@ -1,0 +1,54 @@
+div{
+    border-style: calc();
+    border-radius: 2px;
+}
+#parent{
+    position: relative;
+    height: 600px;
+    width: 300px;
+    border:10px solid;
+}
+#childone{
+    position: absolute;
+    width: 60%;
+    height: 30%;
+    background-color:pink;
+    border-radius: 2px;
+}
+#childtwo{
+    position: absolute;
+    width: 60%;
+    height: 22%;
+    top: 24%;
+    background-color: yellow;
+    border-radius: 2px;
+}
+
+#childthree{
+
+    position: absolute;
+    width: 60%;
+    height: 53%;
+    top: 47%;
+    background-color: bisque;
+    border-radius: 2px;
+}
+
+#childfour{
+    position: absolute;
+    width: 39%;
+    height: 42%;
+    left: 61%;
+    top: 58%;
+    background-color: aquamarine;
+    border-radius: 2px;
+}
+
+#childfive{
+    position: absolute;
+    width: 39%;
+    height: 57%;
+    left: 61%;
+    background-color: blanchedalmond;
+    border-radius: 2px;
+}

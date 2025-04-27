@@ -1,0 +1,36 @@
+h1{
+    display: inline;
+}
+#parent{
+    position: relative;
+    height: 300px;
+    width: 600px;
+}
+#childone{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+}
+#childtwo{
+    position: absolute;
+    width:50%;
+    height: 50%;
+    left:50%;
+}
+
+#childthree{
+    position:absolute;
+    width:50% ;
+    height:50% ;
+    top:50%;
+
+
+}
+
+#childfour{
+    position: absolute;
+    width:50%;
+    height: 100%;
+    top:50%;
+    left:50%
+}

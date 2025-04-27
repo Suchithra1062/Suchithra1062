@@ -1,0 +1,19 @@
+
+/*body{
+    max: width 1600px;
+    height: auto;
+}*/
+    
+header{
+    width: 1600px;
+    height: 75px;
+    position: sticky;
+    border:1px solid red;
+}
+
+#main{
+    height: 1000px;
+    width: 100%;
+    border: 1px solid black;
+    position: static;
+}
